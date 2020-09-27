@@ -4,7 +4,7 @@ A 3D Game Engine built using Java, Lightweight Java GL, and OpenGL. I watched an
 # How to Run
 I recommend using Eclipse to run the project. The last time I ran the project, it ran successfully using the [Eclipse IDE](https://www.eclipse.org/downloads/).
 
-### Click to View Preview Video
+### Click to Preview Video
 [![Watch the video](https://user-images.githubusercontent.com/60367213/94372372-7914e500-00c2-11eb-8b35-df3fcd9e5b41.png)](https://youtu.be/RJupnVmnqcQ)
 
 # Disclaimers
