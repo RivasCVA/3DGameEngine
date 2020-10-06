@@ -1,11 +1,11 @@
 # 3D Game Engine
-A 3D Game Engine built using Java, Lightweight Java GL, and OpenGL. I watched and followed the YouTube tutorial series from [ThinMatrix](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP). I learned a lot about graphics libraries and about the many different complex components that go into making a game engine.
+A 3D Game Engine built using Java, Lightweight Java GL, and OpenGL. Followed the YouTube tutorial series from [ThinMatrix](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP). I learned about graphics libraries and the complex components that go into making a game engine.
 
 # How to Run
-I recommend using Eclipse to run the project. The last time I ran the project, it ran successfully using the [Eclipse IDE](https://www.eclipse.org/downloads/).
+I recommend using [Eclipse](https://www.eclipse.org/downloads/) to run the project. You load up the project folder and hit the green run button.
 
 ### Click to Preview Video
-[![Watch the video](https://user-images.githubusercontent.com/60367213/94372372-7914e500-00c2-11eb-8b35-df3fcd9e5b41.png)](https://youtu.be/RJupnVmnqcQ)
+[![Preview Video](https://user-images.githubusercontent.com/60367213/94372372-7914e500-00c2-11eb-8b35-df3fcd9e5b41.png)](https://youtu.be/RJupnVmnqcQ)
 
 # Disclaimers
-All of the assets used in the project came from [ThinMatrix's YouTube tutorial series](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP). I claim none as my own. As stated previously, I followed the tutorial series, so most of my project will be very similar to ThinMatrix's docs.
+All of the assets used in the project came from [ThinMatrix](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP). I claim none as my own. As stated previously, I followed the tutorial series so my project will resemble ThinMatrix's documentation.
